@@ -1,0 +1,4 @@
+-> Number of Clients found in the file: 2
+-> Number of Sellers found in the file: 2
+-> Sales id of the biggest sale: 01
+-> Name of the Seller that sold less items: Jeferson
